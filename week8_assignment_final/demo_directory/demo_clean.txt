@@ -1,0 +1,7 @@
+# Demo file that contains no secrets! Used to demonstrate directory search.
+
+
+APP_NAME = "demo_scanner"
+DEBUG_MODE = True
+VERSION = "2.5"
+print("This is a clean configuration file! No keys found")
